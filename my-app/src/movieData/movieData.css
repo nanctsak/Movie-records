@@ -1,0 +1,46 @@
+
+.body{
+    height: 800px;
+    background-color:rgb(232, 232, 232);
+    /* background-image: url("../image/admission-2974645_960_720.jpg") ; */
+ 
+    
+}
+.movieRecords{
+    
+    width: 130%;
+    /* display: flex; */
+}
+
+.title{
+    height: 50px;
+    background-color:rgb(46, 49, 49);
+    margin-bottom: 2%;
+    
+}
+.titleAddmovie{
+    background-color: rgb(34, 49, 63);
+    height: 40px;
+    width:80%;
+    padding: 0.5%;
+}
+.addMoviedata{
+  height:70px;
+  width:80%;
+  background-image: linear-gradient(to right,rgb(52, 73, 94) , rgb(124, 132, 139));
+  padding: 2%;
+  
+}
+.ShowData{
+    opacity: 0.9;
+    margin-top: 2%;
+    width: 80%;  
+    
+}
+.tabledata{
+    background-color: white;
+    
+}
+/* .modelEdit{
+    background-image: linear-gradient(to right,rgb(52, 73, 94) , rgb(124, 132, 139));
+} */
